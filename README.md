@@ -11,7 +11,7 @@
 
 🎓 Final year student chasing my way into tech
 🧠 Obsessed with learning how things *actually* work  
-💼 Upcoming Specialist Programmer @Infosys
+💼 Upcoming **Specialist Programmer @Infosys**
 ⚙️ I enjoy solving problems more than finishing them  
 📈 Currently leveling up every day  
 
